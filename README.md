@@ -29,6 +29,10 @@ Welcome to the Cybersecurity Roadmap, a comprehensive guide for individuals aspi
 
 5. Customize the roadmap based on your interests and career goals.
 
+## Direct Download Link
+
+- [Download Cybersecurity Roadmap PDF](./"Roadmap to Cybersecurity Without a Formal Degree.pdf")
+
 ## Contribution
 
 Feel free to contribute to this roadmap by suggesting improvements, adding resources, or sharing your experiences. Fork the repository, make your changes, and submit a pull request.
