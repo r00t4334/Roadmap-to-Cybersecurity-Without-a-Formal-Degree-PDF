@@ -4,18 +4,18 @@ Welcome to the Cybersecurity Roadmap, a comprehensive guide for individuals aspi
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Understanding Cybersecurity Basics](#2-understanding-cybersecurity-basics)
-3. [Gaining Basic IT Skills](#3-gaining-basic-it-skills)
-4. [Exploring Cybersecurity Domains](#4-exploring-cybersecurity-domains)
-5. [Building a Lab Environment](#5-building-a-lab-environment)
-6. [Specializing and Diving Deeper](#6-specializing-and-diving-deeper)
-7. [Staying Informed and Engaging with the Community](#7-staying-informed-and-engaging-with-the-community)
-8. [Creating a Portfolio](#8-creating-a-portfolio)
-9. [Networking and Professional Development](#9-networking-and-professional-development)
-10. [Job Search and Interviews](#10-job-search-and-interviews)
-11. [Continuous Learning](#11-continuous-learning)
-12. [Conclusion](#12-conclusion)
+1. Introduction
+2. Understanding Cybersecurity Basics
+3. Gaining Basic IT Skills
+4. Exploring Cybersecurity Domains
+5. Building a Lab Environment
+6. Specializing and Diving Deeper
+7. Staying Informed and Engaging with the Community
+8. Creating a Portfolio
+9. Networking and Professional Development
+10. Job Search and Interviews
+11. Continuous Learning
+12. Conclusion
 
 ## How to Use This Roadmap
 
